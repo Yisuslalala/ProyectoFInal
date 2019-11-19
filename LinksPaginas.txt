@@ -1,0 +1,16 @@
+light
+http://204.48.23.153/chanachines/
+Repo
+https://github.com/Sandrauwu/chanachines
+Dark
+http://204.48.23.153/chanisdark/
+Repo
+https://github.com/Sandrauwu/chanisdark
+Bootsrap
+
+Repo
+https://github.com/Yisuslalala/Sandrarepo
+
+4C12654B254A
+
+
